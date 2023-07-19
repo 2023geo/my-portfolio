@@ -7,10 +7,12 @@
 <body>
 <h1>GEORGE S. MBEWE </h1>
 <div class="ul">
-    <div class="li"><a class="active" href="index.html">Home</a></div>
-    <div class="li"><a href="services.html">Services</a></div>
-    <div class="li"><a href="about.html">About</a></div>
-    <div class="li"><a href="#footer">Contacts</a></div>
+    <div class="li"><a class="active" href="index.php">Home</a></div>
+    <div class="li"><a href="services.php">Services</a></div>
+    <div class="li"><a href="about.php">About</a></div>
+    <div class="li"><a href="contact/message.html">Contacts</a></div>
+    <div class="li"><a href="skills.php">Skills</a></div>
+    <div class="li"><a href="Projects.php">Projects</a></div>
 </div>
 	<div id="service">
 		<h1>I offer the following </h1>
